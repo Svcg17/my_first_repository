@@ -1,1 +1,2 @@
-echo "git push"
+!#/bin/bash
+echo "git push origin master"
